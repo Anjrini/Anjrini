@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mustafa Anjrini
 - 👀 I’m interested in Science and coding
-- :hand: if looking for some code support using Python or R, please drop me a line :smiley:
+- :hand: if looking for support in coding using Python or R, please drop me a line :smiley:
 
 <!---
 Anjrini/ Mustafa Anjrini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
